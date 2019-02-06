@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/siminsights/Desktop/Shreyas/Personal/albums/albums/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Demangle.cpp \
+  /Users/siminsights/Desktop/Shreyas/Personal/albums/albums/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Demangle.h \
+  /Users/siminsights/Desktop/Shreyas/Personal/albums/albums/node_modules/react-native/third-party/folly-2018.10.22.00/folly/FBString.h \
+  /Users/siminsights/Desktop/Shreyas/Personal/albums/albums/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CppAttributes.h \
+  /Users/siminsights/Desktop/Shreyas/Personal/albums/albums/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Portability.h \
+  /Users/siminsights/Desktop/Shreyas/Personal/albums/albums/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Config.h \
+  /Users/siminsights/Desktop/Shreyas/Personal/albums/albums/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CPortability.h \
+  /Users/siminsights/Desktop/Shreyas/Personal/albums/albums/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Traits.h \
+  /Users/siminsights/Desktop/Shreyas/Personal/albums/albums/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/Hash.h \
+  /Users/siminsights/Desktop/Shreyas/Personal/albums/albums/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Utility.h \
+  /Users/siminsights/Desktop/Shreyas/Personal/albums/albums/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/ApplyTuple.h \
+  /Users/siminsights/Desktop/Shreyas/Personal/albums/albums/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/Invoke.h \
+  /Users/siminsights/Desktop/Shreyas/Personal/albums/albums/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Preprocessor.h \
+  /Users/siminsights/Desktop/Shreyas/Personal/albums/albums/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV1.h \
+  /Users/siminsights/Desktop/Shreyas/Personal/albums/albums/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV2.h \
+  /Users/siminsights/Desktop/Shreyas/Personal/albums/albums/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Bits.h \
+  /Users/siminsights/Desktop/Shreyas/Personal/albums/albums/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ConstexprMath.h \
+  /Users/siminsights/Desktop/Shreyas/Personal/albums/albums/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Assume.h \
+  /Users/siminsights/Desktop/Shreyas/Personal/albums/albums/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Builtins.h \
+  /Users/siminsights/Desktop/Shreyas/Personal/albums/albums/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Exception.h \
+  /Users/siminsights/Desktop/Shreyas/Personal/albums/albums/node_modules/react-native/third-party/folly-2018.10.22.00/folly/memory/Malloc.h \
+  /Users/siminsights/Desktop/Shreyas/Personal/albums/albums/node_modules/react-native/third-party/folly-2018.10.22.00/folly/memory/detail/MallocImpl.h \
+  /Users/siminsights/Desktop/Shreyas/Personal/albums/albums/node_modules/react-native/third-party/folly-2018.10.22.00/folly/detail/Demangle.h
